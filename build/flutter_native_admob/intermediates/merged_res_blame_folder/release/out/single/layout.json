@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\res\\merged\\release\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\a5214b370bf10ae023fb947601099569\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\res\\merged\\release\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\a5214b370bf10ae023fb947601099569\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\res\\merged\\release\\layout\\native_admob_banner_view.xml",
+        "source": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_native_admob-2.1.0+3\\android\\src\\main\\res\\layout\\native_admob_banner_view.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\res\\merged\\release\\layout\\native_admob_full_view.xml",
+        "source": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_native_admob-2.1.0+3\\android\\src\\main\\res\\layout\\native_admob_full_view.xml"
+    }
+]

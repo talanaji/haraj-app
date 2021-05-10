@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\toast_bg.xml",
+        "source": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-7.0.4\\android\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\corner.xml",
+        "source": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-7.0.4\\android\\src\\main\\res\\drawable\\corner.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

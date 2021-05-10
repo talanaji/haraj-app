@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_database\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_database\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_database\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_database\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_database\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_database\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]

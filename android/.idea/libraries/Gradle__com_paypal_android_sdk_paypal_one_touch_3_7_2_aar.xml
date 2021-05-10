@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.paypal.android.sdk:paypal-one-touch:3.7.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78c2da71ef07d8bc36d56b462d3fbbb2/jetified-paypal-one-touch-3.7.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31163faf5eaa60ca44a4647b9b8ee7e4/jetified-paypal-one-touch-3.7.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ae2aa671b1225469e578b537897a079/jetified-paypal-one-touch-3.7.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78c2da71ef07d8bc36d56b462d3fbbb2/jetified-paypal-one-touch-3.7.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78c2da71ef07d8bc36d56b462d3fbbb2/jetified-paypal-one-touch-3.7.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78c2da71ef07d8bc36d56b462d3fbbb2/jetified-paypal-one-touch-3.7.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31163faf5eaa60ca44a4647b9b8ee7e4/jetified-paypal-one-touch-3.7.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31163faf5eaa60ca44a4647b9b8ee7e4/jetified-paypal-one-touch-3.7.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31163faf5eaa60ca44a4647b9b8ee7e4/jetified-paypal-one-touch-3.7.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paypal.android.sdk/paypal-one-touch/3.7.2/e998be6423c795b70683b33b01e36da2a9d91c7e/paypal-one-touch-3.7.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paypal.android.sdk/paypal-one-touch/3.7.2/97411cebf88583bdb81d874b59565297e49e1986/paypal-one-touch-3.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

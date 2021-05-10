@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.paypal.android.sdk:data-collector:3.7.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c715035ace6139540d38ee6e4d7b1748/jetified-data-collector-3.7.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/43cb6a90b1d9b9f99eba65d6d5fbb347/jetified-data-collector-3.7.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/43cb6a90b1d9b9f99eba65d6d5fbb347/jetified-data-collector-3.7.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/43cb6a90b1d9b9f99eba65d6d5fbb347/jetified-data-collector-3.7.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/43cb6a90b1d9b9f99eba65d6d5fbb347/jetified-data-collector-3.7.2/jars/libs/paypal-data-collector-4.1.2.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24d213df8c7c474bcf55357be7eb222f/jetified-data-collector-3.7.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24d213df8c7c474bcf55357be7eb222f/jetified-data-collector-3.7.2/jars/libs/paypal-data-collector-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24d213df8c7c474bcf55357be7eb222f/jetified-data-collector-3.7.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24d213df8c7c474bcf55357be7eb222f/jetified-data-collector-3.7.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paypal.android.sdk/data-collector/3.7.2/230084974ca31c0f1ba532b0d2c634fbadb931aa/data-collector-3.7.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paypal.android.sdk/data-collector/3.7.2/1ed4cfe17522fe56ae0938ffb6548b1fa6cdef2a/data-collector-3.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\res\\merged\\release\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\Apps Work\\haraj\\haraj\\build\\flutter_native_admob\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        }
+    ]
+}

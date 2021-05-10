@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\241ed957067c6e64de29ec08090d8118\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Apps Work\\haraj\\haraj\\build\\firebase_dynamic_links\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\compulife\\.gradle\\caches\\transforms-2\\files-2.1\\06c449970c5ffca9d84f52c7ac526604\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments.api:three-d-secure:3.7.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/08457484ab569eef0785623185e0d53f/jetified-three-d-secure-3.7.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa4c59ae791978e10013ca4f97d01700/jetified-three-d-secure-3.7.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa4c59ae791978e10013ca4f97d01700/jetified-three-d-secure-3.7.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa4c59ae791978e10013ca4f97d01700/jetified-three-d-secure-3.7.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa1bb6866969aaf8ba2e7e109277c836/jetified-three-d-secure-3.7.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa1bb6866969aaf8ba2e7e109277c836/jetified-three-d-secure-3.7.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa1bb6866969aaf8ba2e7e109277c836/jetified-three-d-secure-3.7.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/three-d-secure/3.7.2/5285e7dd017a722635f36e11063d08279893b7c6/three-d-secure-3.7.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/three-d-secure/3.7.2/5285e7dd017a722635f36e11063d08279893b7c6/three-d-secure-3.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,99 @@
+import 'dart:async';
+import 'package:haraj/repository/product_repository.dart';
+import 'package:haraj/utils/utils.dart';
+import 'package:flutter/material.dart';
+import 'package:haraj/api/common/ps_resource.dart';
+import 'package:haraj/api/common/ps_status.dart';
+import 'package:haraj/provider/common/ps_provider.dart';
+import 'package:haraj/viewobject/common/ps_value_holder.dart';
+import 'package:haraj/viewobject/product.dart';
+
+class ItemEntryProvider extends PsProvider {
+  ItemEntryProvider(
+      {@required ProductRepository repo,
+      @required this.psValueHolder,
+      int limit = 0})
+      : super(repo, limit) {
+    _repo = repo;
+    isDispose = false;
+    print('Item Entry Provider: $hashCode');
+
+    itemListStream = StreamController<PsResource<Product>>.broadcast();
+    subscription = itemListStream.stream.listen((PsResource<Product> resource) {
+      if (resource != null && resource.data != null) {
+        _itemResource = resource;
+        item = resource.data;
+      }
+
+      if (resource.status != PsStatus.BLOCK_LOADING &&
+          resource.status != PsStatus.PROGRESS_LOADING) {
+        isLoading = false;
+      }
+
+      if (!isDispose) {
+        notifyListeners();
+      }
+    });
+    Utils.checkInternetConnectivity().then((bool onValue) {
+      isConnectedToInternet = onValue;
+    });
+  }
+
+  ProductRepository _repo;
+  PsValueHolder psValueHolder;
+  PsResource<Product> _itemResource =
+      PsResource<Product>(PsStatus.NOACTION, '', null);
+  PsResource<Product> get itemResource => _itemResource;
+
+  StreamSubscription<PsResource<Product>> subscription;
+  StreamController<PsResource<Product>> itemListStream;
+
+  Product item;
+
+  String manufacturerId = '';
+  String itemTypeId = '';
+  String itemPriceTypeId = '';
+  String itemCurrencyId = '';
+  String itemLocationId = '';
+  bool isCheckBoxSelect = true;
+  String checkOrNotShop = '1';
+  bool isLicenseCheckBoxSelect = true;
+  String checkOrNotLicense = '1';
+  String itemId = '';
+
+  // Existing Image Id
+  String firstImageId = '';
+  String secondImageId = '';
+  String thirdImageId = '';
+  String fourthImageId = '';
+  String fiveImageId = '';
+
+  @override
+  void dispose() {
+    subscription.cancel();
+    isDispose = true;
+    print('Item Entry Provider Dispose: $hashCode');
+    super.dispose();
+  }
+
+  Future<dynamic> postItemEntry(
+    Map<dynamic, dynamic> jsonMap,
+  ) async {
+    isLoading = true;
+
+    isConnectedToInternet = await Utils.checkInternetConnectivity();
+
+    _itemResource = await _repo.postItemEntry(
+        jsonMap, isConnectedToInternet, PsStatus.PROGRESS_LOADING);
+
+    return _itemResource;
+    // return null;
+  }
+
+  Future<dynamic> getItemFromDB(String itemId) async {
+    isLoading = true;
+
+    await _repo.getItemFromDB(
+        itemId, itemListStream, PsStatus.PROGRESS_LOADING);
+  }
+}

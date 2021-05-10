@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:stripe-3ds2-android:1.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2a059432a7b40d062ee9cb5c317f0a1/jetified-stripe-3ds2-android-1.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2a059432a7b40d062ee9cb5c317f0a1/jetified-stripe-3ds2-android-1.2.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2a059432a7b40d062ee9cb5c317f0a1/jetified-stripe-3ds2-android-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fe243614bcf5d4922d50805fff35361/jetified-stripe-3ds2-android-1.2.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fe243614bcf5d4922d50805fff35361/jetified-stripe-3ds2-android-1.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fe243614bcf5d4922d50805fff35361/jetified-stripe-3ds2-android-1.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

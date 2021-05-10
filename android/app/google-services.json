@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32459940800",
+    "firebase_url": "https://harajalshamal-default-rtdb.firebaseio.com",
+    "project_id": "harajalshamal",
+    "storage_bucket": "harajalshamal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32459940800:android:0dc8f065d6a4b26cd11e25",
+        "android_client_info": {
+          "package_name": "com.haraj.alshamal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32459940800-u7398pm0bapcs7ppj1hq5hur8mk75e05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haraj.alshamal",
+            "certificate_hash": "8ad17332e90fc4fe68f841f0225065bd347f048f"
+          }
+        },
+        {
+          "client_id": "32459940800-9u8n4nilf82u6i5o3mk68b2gqh2og9g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5U3vs87OrgD50loe85GBtzJmRhPjK9Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32459940800-9u8n4nilf82u6i5o3mk68b2gqh2og9g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
